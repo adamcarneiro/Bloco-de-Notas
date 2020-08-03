@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Bloco de Notas.iml" filepath="$PROJECT_DIR$/Bloco de Notas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notepad.iml" filepath="$PROJECT_DIR$/Notepad.iml" />
     </modules>
   </component>
 </project>
